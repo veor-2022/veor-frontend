@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>102038303607-mkl7jr42ni6r6nmehvdfcdo8nqfnbf8a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.102038303607-mkl7jr42ni6r6nmehvdfcdo8nqfnbf8a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>102038303607-r5p21tq9p3q49pp5191heq87eblr6her.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAgCr_EBbNqIeaug4bjhfOMI7txDMRrts</string>
+	<key>GCM_SENDER_ID</key>
+	<string>102038303607</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.veor.app</string>
+	<key>PROJECT_ID</key>
+	<string>veor-app-93e91</string>
+	<key>STORAGE_BUCKET</key>
+	<string>veor-app-93e91.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:102038303607:ios:163e4d6979630ad58fa772</string>
+</dict>
+</plist>

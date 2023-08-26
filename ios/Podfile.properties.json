@@ -1,0 +1,5 @@
+{
+  "expo.jsEngine": "jsc",
+  "ios.useFrameworks": "static",
+  "ios.deploymentTarget": "13.0"
+}

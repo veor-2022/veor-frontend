@@ -1,0 +1,17 @@
+kind: pipeline
+type: exec
+name: Build Expo Android
+
+platform:
+  os: windows
+  arch: amd64
+
+steps:
+- name: Install Dependencies
+  commands:
+  - yarn install
+- name: EAS Build Android
+  commands:
+  - yarn run eas:build:android
+  environment:
+    API_URL: 'https://veor.lab.bctc.io'

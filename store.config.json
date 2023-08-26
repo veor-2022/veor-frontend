@@ -1,0 +1,39 @@
+{
+  "configVersion": 0,
+  "apple": {
+    "version": "1.0",
+    "release": {
+      "automaticRelease": true
+    },
+    "info": {
+      "en-US": {
+        "description": "Welcome to VEOR!\nWhether you are feeling stressed and worried, struggling in a relationship, or\nhaving problems with friends and family, you are not alone.\nVEOR is an online community platform where you can discover, develop, and\nrestore your emotional wellness through peer support and self-help.\nOn the VEOR platform, you can:\n• One-to-one chat with a trained listener about anything on your mind 24/7.\n• Build supportive relationships with others having similar experiences and\nconcerns in peer support groups.\n• Keep track of your feelings and find clarity in your own thoughts.\nIf you are passionate about helping others, the platform also offers training on\nhow to be supportive through the art of listening and facilitating.\nJoin VEOR, a place you can be happier, healthier, and a light to others.",
+        "supportUrl": "https://veor.bctc.io",
+        "title": "VEOR",
+        "subtitle": "VEOR App",
+        "privacyPolicyUrl": "https://veor-files.s3.amazonaws.com/veor-privacy.html"
+      }
+    },
+    "categories": [
+      "LIFESTYLE"
+    ],
+    "advisory": {
+      "alcoholTobaccoOrDrugUseOrReferences": "NONE",
+      "contests": "NONE",
+      "gamblingSimulated": "NONE",
+      "horrorOrFearThemes": "NONE",
+      "matureOrSuggestiveThemes": "NONE",
+      "medicalOrTreatmentInformation": "NONE",
+      "profanityOrCrudeHumor": "NONE",
+      "sexualContentGraphicAndNudity": "NONE",
+      "sexualContentOrNudity": "NONE",
+      "violenceCartoonOrFantasy": "NONE",
+      "violenceRealistic": "NONE",
+      "violenceRealisticProlongedGraphicOrSadistic": "NONE",
+      "gambling": false,
+      "unrestrictedWebAccess": false,
+      "kidsAgeBand": null,
+      "seventeenPlus": false
+    }
+  }
+}

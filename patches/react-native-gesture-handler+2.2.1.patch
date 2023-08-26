@@ -1,0 +1,12 @@
+diff --git a/node_modules/react-native-gesture-handler/lib/typescript/components/Swipeable.d.ts b/node_modules/react-native-gesture-handler/lib/typescript/components/Swipeable.d.ts
+index 53f7145..f9a8cd7 100644
+--- a/node_modules/react-native-gesture-handler/lib/typescript/components/Swipeable.d.ts
++++ b/node_modules/react-native-gesture-handler/lib/typescript/components/Swipeable.d.ts
+@@ -112,6 +112,7 @@ export interface SwipeableProps extends Pick<PanGestureHandlerProps, SwipeableEx
+      * apply `flex: 1`
+      */
+     childrenContainerStyle?: StyleProp<ViewStyle>;
++    children?: React.ReactNode;
+ }
+ declare type SwipeableState = {
+     dragX: Animated.Value;

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "102038303607",
+    "project_id": "veor-app-93e91",
+    "storage_bucket": "veor-app-93e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102038303607:android:722e206ce3e2ebe28fa772",
+        "android_client_info": {
+          "package_name": "org.veor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102038303607-r5p21tq9p3q49pp5191heq87eblr6her.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.veor.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "102038303607-vfhkg6jleok4qvcg9ens9h5v7iuv5pl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.veor.app",
+            "certificate_hash": "8b7a17fb6827a1bccb8456e330253c36535260e3"
+          }
+        },
+        {
+          "client_id": "102038303607-ovegubglf2afs4fmjqjbqe199drc499h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMoBFY8ZAOEconss6yVzL_Q27HM1plfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102038303607-ovegubglf2afs4fmjqjbqe199drc499h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102038303607-mkl7jr42ni6r6nmehvdfcdo8nqfnbf8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.veor.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
