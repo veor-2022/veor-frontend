@@ -34,6 +34,7 @@
         <data android:scheme="org.veor.app"/>
         <data android:scheme="exp+veor-app"/>
         <data android:scheme="veorapp"/>
+        <data android:scheme="exp+ver-2"/>
       </intent-filter>
     </activity>
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false"/>
@@ -42,7 +43,7 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="fb777741967403796"/>
+        <data android:scheme="fb266730982659184"/>
       </intent-filter>
     </activity>
   </application>

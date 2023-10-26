@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
     <key>CFBundleAllowMixedLocalizations</key>
     <true/>
     <key>CFBundleDevelopmentRegion</key>
@@ -40,7 +42,7 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>exp+veor-app</string>
+          <string>exp+ver-2</string>
         </array>
       </dict>
       <dict>
@@ -57,7 +59,7 @@
       </dict>
     </array>
     <key>CFBundleVersion</key>
-    <string>10</string>
+    <string>21</string>
     <key>FacebookAppID</key>
     <string>266730982659184</string>
     <key>FacebookClientToken</key>
@@ -92,8 +94,6 @@
     <string>Allow $(PRODUCT_NAME) to access your microphone</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>The app accesses your photos to let you share them with your friends.</string>
-    <key>NSUserTrackingUsageDescription</key>
-    <string>We utilize tracking ID to help us build better product by collecting useage information.</string>
     <key>SKAdNetworkItems</key>
     <array>
       <dict>

@@ -52,6 +52,7 @@ module.exports = {
     infoPlist: {
       FacebookClientToken: '36a7d8e006cfa47b127a5691088ec488',
     },
+
     config: {
       googleSignIn: {
         reservedClientId:
@@ -87,11 +88,12 @@ module.exports = {
   facebookDisplayName: 'Veor',
   extra: {
     eas: {
-      projectId: '351d1afb-8024-466f-b677-131349a7979c',
+      projectId: '63afc550-d09a-4998-8bf1-baef57abff67',
     },
     apiURL: process.env.API_URL || 'https://veor.lab.bctc.io',
   },
-  owner: 'veroapp',
+  owner: 'salekh',
+  "slug": "ver-2",
   runtimeVersion: {
     policy: 'sdkVersion',
   },
