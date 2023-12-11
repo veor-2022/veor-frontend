@@ -30,3 +30,10 @@ eas build -p ios --auto-submit
 #     Key Source:  EAS servers
 
 
+#clear sim cache 
+rm -rf ~/Library/Developer/CoreSimulator/Caches
+
+#clear xcode cache 
+rm -rf 
+
+
